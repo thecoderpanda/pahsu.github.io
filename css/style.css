@@ -1,0 +1,42 @@
+/*.container{
+	border:5px solid;
+}*/
+.green{
+	background:lightgreen;
+	}
+.text{
+	text-align:center;
+	font-size:24px;
+	}
+.box1{
+	
+	text-align:center;
+	border:1px solid #000;
+	}
+	
+.box2{
+	
+	text-align:center;
+	border:1px solid #000;
+	}
+.fsize{
+	font-size: 15px;
+	color: #fc5e28;
+}
+h2{
+		line-height: 1.2;
+font-size: 40px;
+font-weight: 700;
+	}
+	.heading-section .subheading {
+    font-size: 12px;
+    display: block;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    color: #fc5e28;
+    letter-spacing: 2px;
+    font-weight: 600;
+}
+.text-transform{
+	text-transform: uppercase;
+}
