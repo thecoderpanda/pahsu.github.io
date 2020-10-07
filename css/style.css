@@ -40,3 +40,8 @@ font-weight: 700;
 .text-transform{
 	text-transform: uppercase;
 }
+.btna{
+	text-decoration: none;
+	font-size: 16px;
+	white-space:initial;
+}
